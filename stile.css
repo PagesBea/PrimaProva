@@ -1,0 +1,94 @@
+
+header {
+	min-width: 1200px;
+	width: 100%;
+   height: 120px;
+	top: 30x;
+
+}
+
+#page0{
+background-image: url('textures/t1.png');
+background-repeat: repeat;
+}
+
+#page2, #page3, #page1{
+width: 100%;
+height:100%;
+}
+
+
+.myMenu{
+	background-color: black;
+}
+
+
+.video{
+	width: 100%;
+	height: 100%;
+}
+#exit{
+	position: absolute;
+	margin-top: 0px;
+}
+
+#central_button {
+	visibility: block;
+	width:10%;
+	background-color: rgba(90, 133, 135, 0.7);
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 45%;
+
+ 	 -moz-border-radius: 15px;
+ 	 -webkit-border-radius: 15px;
+ 	 border: 5px solid rgba(90, 133, 135, 1);
+ 	 
+ 	 /*padding: 5px*/;
+}
+
+#buttonBox{
+	min-width: 800px;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+
+#links_box{
+	min-width: 1200px;
+	display: table;
+	margin-top: 100px;
+	margin-bottom: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: scroll;
+}
+
+#box1 {
+		display: inline-block;
+	text-align: center;
+    float: left;
+    width: 400px;
+}
+
+
+
+#box2 {
+	display: inline-block;
+	text-align: center;
+	 float: left;
+	 width: 400px;
+}
+
+#box3 {
+		display: inline-block;
+		text-align: center;
+	   float: left;
+    	 width: 400px;
+}
+
+.menu_item{
+	margin: 30px;
+}
+
